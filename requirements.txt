@@ -5,3 +5,5 @@ inference-sdk
 easyocr
 opencv-python
 python-dotenv
+pytest
+httpx

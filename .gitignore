@@ -16,6 +16,7 @@ ENV/
 # Project Specific
 uploads/
 outputs/
+data/
 
 # Secrets
 .env
