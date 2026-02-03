@@ -26,6 +26,7 @@ jobs:
         
     - name: Run tests with pytest
       run: |
+        export PYTHONPATH=$PYTHONPATH:.
         pytest
       env:
         ROBOFLOW_API_KEY: ${{ secrets.ROBOFLOW_API_KEY }}
