@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+inference-sdk
+easyocr
+opencv-python
+python-dotenv
